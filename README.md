@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Pall1n
-- 👀 I’m interested in tprogramming and gaming
+- 🏠 I live in Caltanissetta, Sicily
+- 🏫 I attend the secondary scholl
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning python and HTML
 - 💞️ I’m looking to collaborate on various projects
 
