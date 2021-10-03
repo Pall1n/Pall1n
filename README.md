@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Pall1n
 - 🏠 I live in Sicily
-- 🏫 I attend the secondary scholl
-- 👀 I'm a c++ and python programmer, but I love to create various site
-- 🌱 I’m currently learning Javascript and responsive design 
+- 🏫 Secondary scholl
+- 📚 I write in c++, python, css, javascritp
+- ✍ Usually using: Visual Studio, VS Code, PyCharm, 000webhost
+- 🌱 I’m currently learning responsive design 
 - 💞️ I like programing and collaborate in some projects
 
 <!---
