@@ -2,7 +2,7 @@
 - 🏠 I live in Sicily
 - 🏫 Secondary scholl
 - 📚 I write in c++, python, css, javascritp
-- ✍ Usually using: Visual Studio, VS Code, PyCharm, 000webhost
+- ✍ Usually using: Visual Studio, VS Code, PyCharm, Sublime.
 - 🌱 I’m currently learning responsive design 
 - 💞️ I like programing and collaborate in some projects
 
