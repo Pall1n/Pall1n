@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pall1n
 - 🏠 I live in Sicily
-- 🏫 Secondary scholl
+- 🏫 Secondary school
 - 📚 I write in c++, python, css, javascritp
 - ✍ Usually using: Visual Studio, VS Code, PyCharm, Sublime.
 - 🌱 I’m currently learning responsive design 
