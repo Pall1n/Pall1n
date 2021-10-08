@@ -5,3 +5,4 @@
 - ✍ Usually using: Visual Studio, VS Code, PyCharm, Sublime
 - 🌱 I’m currently learning responsive design
 - 🔨 I'm currently working on my portfolio
+
