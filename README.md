@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pall1n
+**Info about me:**
 - 🏠 I live in Sicily
 - 🏫 Secondary school
 - 📚 I write in c++, python, css, javascript
